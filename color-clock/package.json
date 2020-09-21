@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "color-clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<script src=\"./node_modules/moment/moment.js\"></script>"
+  },
+  "keywords": [
+    "idc"
+  ],
+  "author": "idc",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.28.0"
+  }
+}
